@@ -16,7 +16,7 @@ export default function ProfileAvatar() {
           <div className="absolute inset-0 rounded-full bg-gradient-to-br from-rose-gold via-blush to-petal p-[4px]">
             <div className="w-full h-full rounded-full bg-gradient-to-br from-rose-100 to-white p-[3px]">
               <img
-                src="./image/SaveClip.App_486650809_18496467469033323_4544908881282292195_n.jpg (1).jpeg"
+                src="/image/SaveClip.App_486650809_18496467469033323_4544908881282292195_n.jpg (1).jpeg"
                 alt="Dra. Carollina Borges"
                 className="w-full h-full rounded-full object-cover"
               />
